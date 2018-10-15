@@ -7,4 +7,7 @@ Requirements: Python3
               Haarcascade - Face
               
 Output:
- /home/shardul/Pictures/Screenshot from 2018-10-15 22-48-57.png
+
+ ![Detection](https://user-images.githubusercontent.com/26631311/46968562-25758080-d0d1-11e8-9f8d-bf27136d693b.png)
+
+Other Haar cascades: https://github.com/opencv/opencv/tree/master/data/haarcascades
