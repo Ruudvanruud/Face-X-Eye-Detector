@@ -1,7 +1,9 @@
 # Face-X-Eye-Detector
 Object Detection using Haar feature-based cascade classifiers.
 
-Requirements: Python3
+Requirements: 
+              
+              Python3
               OpenCV
               Haarcascade - Eye
               Haarcascade - Face
